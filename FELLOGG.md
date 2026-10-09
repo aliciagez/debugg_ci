@@ -9,7 +9,8 @@ En rad per fel. Skriv medan du minns hur du gjorde.
 | 3  |  samma som ovan           | Github           |        Github action        |  tog bort uv.lock från .gitignore 
 | 4  |  `os` imported but unused | Lokalt           |        Github action        | tog bort import os
 | 5  | file would be reformatted | Lokalt           |        Github action         |  gjorde om formatering så det passa ruff fromatz
-| 6  |  numpy hittade inte       | Lokalt            |   terminalen, körde kommandot| la till nunpy i uv  
+| 6  |  numpy hittade inte       | Lokalt            |   terminalen, körde kommandot| la till nunpy i uv 
+| 7  | fel i pytest, fick fel värden | Lokalt       |   kollade på errron i github  | fixade så uträkningen blev korretk 
 
 
 
