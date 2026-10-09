@@ -11,6 +11,7 @@ En rad per fel. Skriv medan du minns hur du gjorde.
 | 5  | file would be reformatted | Lokalt           |        Github action         |  gjorde om formatering så det passa ruff fromatz
 | 6  |  numpy hittade inte       | Lokalt            |   terminalen, körde kommandot| la till nunpy i uv 
 | 7  | fel i pytest, fick fel värden | Lokalt       |   kollade på errron i github  | fixade så uträkningen blev korretk 
+| 8  | fel i formateringen        |  lokat          |   samma som ovan               | körder ruff format och ruff check kommandom
 
 
 
